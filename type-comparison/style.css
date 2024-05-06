@@ -17,7 +17,7 @@ img {
 }
 
 figure {
-	margin: 1em 0;
+	margin: 1em 0em 1.5em 0em;
 }
 
 h1, h2, h3, h4, p, ul, ol, li {
@@ -30,23 +30,26 @@ h1, h2, h3, h4, p, ul, ol, li {
 h1 {
 	font-size: 2em; 
 	font-weight: 700;
-	margin: 0.2em;
+	margin: 0.2em 0em 0.2em 0em;
 }
 
 h2 {
 	font-size: 1.5em; 
 	font-weight: 700;
-	margin: 0.5em 0em 0.5em 0em;
+	margin: 1.5em 0em 0.5em 0em;
 }
 
 h3 {
 	font-size: 1.2em; 
 	font-weight: 600;
 	margin-bottom: 0.2em;
+	margin-top: 1em;
 }
 
 p{
 	margin: 0.2em 0em 0.2em 0em;
+	padding-top: 0.4em; 
+	line-height: 1.5em;
 	
 }
 
